@@ -18,5 +18,5 @@ console.log(fullName);
 // завдання 4 
 const userName = prompt("Введіть своє ім`я");
 const payment = 500;
-const message = `Дякуємо, ${userName}! До сплати ${payment} гривень;`;
+const message = `Дякуємо, ${userName}! До сплати ${payment} гривень`;
 alert(message);
